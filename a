@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Iam checking the brach working of Git
+
+echo "Let's see if it works"
+
+#End
